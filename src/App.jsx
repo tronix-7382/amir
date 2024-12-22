@@ -14,7 +14,7 @@ function App() {
         <p>Hello , Im a Retard.</p>
         <a className="App-link">Better User interface Soon...</a>
       </header>
-      <audio ref={ref} src={Audi} ></audio>
+      <audio ref={ref} src={Audi} />
     </div>  
   );
 }
