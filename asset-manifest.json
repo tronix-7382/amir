@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/amir/static/css/main.f855e6bc.css",
+    "main.js": "/amir/static/js/main.f90dce46.js",
+    "static/media/result.png": "/amir/static/media/result.be657807a2dcaccd85e7.png",
+    "index.html": "/amir/index.html",
+    "main.f855e6bc.css.map": "/amir/static/css/main.f855e6bc.css.map",
+    "main.f90dce46.js.map": "/amir/static/js/main.f90dce46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f90dce46.js"
+  ]
+}
